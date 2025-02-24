@@ -1,26 +1,21 @@
-<div style="text-align: center;">
-  <img src="public/colorshift_logo.svg" alt="ColorShift" height="150">
-</div>
+<p align="center">
+  <img src="public/colorshift_logo.svg" alt="ColorShift Logo" height="150">
+</p>
 
 # ColorShift
 
-A Firefox extension that dynamically changes the browser theme based on the dominant color of the favicon in the active tab.
-Based on Material Design 3.
+A Firefox extension that dynamically adjusts the browser theme based on the dominant color of the active tab's favicon. Built on Material Design 3 principles.
 
 ## Installation
 
-### Firefox add-ons marketplace
+### Firefox Add-ons Marketplace
 
-You can easly install the extension directly from the Firefox add-ons marketplace at the following link.
+You can easily install the extension directly from the [Firefox Add-ons Marketplace](#).
 
-### Build from source
+## Contribution
 
-Altenavitly you can install the extension from souce code
-
-## Countribution
-
-Please follow the instruction in the ![contributing]() file.
+We welcome contributions! Please follow the instructions in the [Contributing Guidelines](./CONTRIBUTING.md).
 
 ## License
 
-MIT.
+This project is licensed under the MIT License.
