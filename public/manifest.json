@@ -14,5 +14,10 @@
   "background": {
     "scripts": ["index.js"]
   },
-  "permissions": ["theme", "activeTab", "tabs"]
+  "permissions": ["theme", "activeTab", "tabs"],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{a4848eb9-7b24-4585-b079-243ffc79d8e1}"
+    }
+  }
 }
